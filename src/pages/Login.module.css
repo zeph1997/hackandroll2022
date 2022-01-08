@@ -1,0 +1,11 @@
+.paper {
+  background-color: #4e5d79 !important;
+  border-radius: 25px;
+  width: 50%;
+  height: 80vh;
+  padding: 2%;
+}
+
+.logo {
+  width: 150px;
+}

@@ -1,0 +1,22 @@
+.textField {
+  background-color: #ffffff;
+  width: 60%;
+  border-radius: 10px;
+}
+
+.button {
+  border-radius: 25px;
+  width: 20%;
+}
+
+.loginBtn {
+  background-color: #e67d48 !important;
+}
+
+.signupBtn {
+  background-color: #1cb1f1 !important;
+}
+
+.inputs {
+  padding: 5%;
+}

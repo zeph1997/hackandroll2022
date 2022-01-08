@@ -1,0 +1,36 @@
+.paper {
+  background-color: #d4dbe9 !important;
+  border-radius: 25px;
+  width: 50%;
+  height: 80vh;
+  padding: 2%;
+}
+
+.paperHeader {
+  background-color: #4e5d79 !important;
+  height: 5vh;
+}
+
+.select {
+  background-color: #ffffff;
+  width: 70%;
+}
+
+.cuisine {
+  margin: 2% !important;
+}
+
+.cuisineSelected {
+  background-color: #81d4fa !important;
+  color: #ffffff !important;
+}
+
+.cuisineUnselected {
+  background-color: #b0bec5 !important;
+  color: #ffffff !important;
+}
+
+.chat {
+  background-color: #1cb1f1 !important;
+  color: #ffffff !important;
+}

@@ -1,0 +1,23 @@
+.paper {
+  background-color: #ffe082 !important;
+  border-radius: 25px;
+  height: 80vh;
+  padding: 2%;
+  overflow-y: scroll;
+}
+
+.logo {
+  width: 100px;
+}
+
+.restaurantImages {
+  max-width: 100%;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.centerText {
+  text-align: center !important;
+}

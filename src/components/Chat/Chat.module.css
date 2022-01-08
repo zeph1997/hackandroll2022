@@ -1,0 +1,53 @@
+.paper {
+  background-color: #d4dbe9 !important;
+  border-radius: 25px;
+  height: 80vh;
+  padding: 2%;
+}
+
+.paperHeader {
+  background-color: #4e5d79 !important;
+}
+
+.end {
+  background-color: #f44336 !important;
+  color: #ffffff !important;
+}
+
+.sendInput {
+  background-color: #ffffff;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.send {
+  background-color: #1cb1f1 !important;
+  color: #ffffff !important;
+}
+
+.textBubble {
+  border-radius: 10px;
+  min-height: 25px;
+  max-width: 50%;
+}
+
+.chatContainer {
+  min-height: 60vh;
+  max-height: 60vh;
+  overflow-y: scroll;
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.sentText {
+  color: #000000;
+  background-color: #aebad2;
+  padding: 1%;
+  margin-left: auto;
+}
+
+.receiveText {
+  color: #000000;
+  background-color: #ffffff;
+  padding: 1%;
+}
