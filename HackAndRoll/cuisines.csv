@@ -1,0 +1,337 @@
+food,label
+korean,KOREAN
+jjamppong,KOREAN
+kimchi pancake,KOREAN
+ramen,KOREAN
+bulgogi,KOREAN
+fried chicken,KOREAN
+hoeddeok,KOREAN
+bulgogi,KOREAN
+samgyeopsal,KOREAN
+japchae,KOREAN
+kimchi,KOREAN
+ddukbokki,KOREAN
+sundubu-jjigae,KOREAN
+bibimbap,KOREAN
+naengmyeon,KOREAN
+hobakjuk,KOREAN
+soondae,KOREAN
+galbitang,KOREAN
+oritang,KOREAN
+samyetang,KOREAN
+hwanggi,KOREAN
+seolleongtang,KOREAN
+dangmyeon,KOREAN
+maeuntang,KOREAN
+gamjatang,KOREAN
+daktoritang,KOREAN
+dakbokkeumtan,KOREAN
+chueotang,KOREAN
+galbi,KOREAN
+samgyeopsal,KOREAN
+makchang,KOREAN
+gobchang,KOREAN
+bossam,KOREAN
+bbolsal,KOREAN
+kbbq,KOREAN
+yukgaejang,KOREAN
+dak galbi,KOREAN
+samgyeopsal,KOREAN
+makchang gui,KOREAN
+gobchang gui,KOREAN
+saengseon gui,KOREAN
+seokhwa gui,KOREAN
+deodeok gui,KOREAN
+beoseot gui,KOREAN
+gim gui,KOREAN
+galbijjim,KOREAN
+andong jjimdak,KOREAN
+agujjim,KOREAN
+jeonbokjjim,KOREAN
+gyeran jjim,KOREAN
+oiseon,KOREAN
+hobakjeon,KOREAN
+dubujeon,KOREAN
+sannakji,KOREAN
+live octopus,KOREAN
+yukhoe,KOREAN
+raw beef,KOREAN
+sukhoe,KOREAN
+ganghoe,KOREAN
+rice cakes,KOREAN
+makchang,KOREAN
+gobchang,KOREAN
+bossam,KOREAN
+bbolsal,KOREAN
+yukgaejang,KOREAN
+hoe,KOREAN
+namul,KOREAN
+saengchae,KOREAN
+oisaengchae,KOREAN
+doraji saengchae,KOREAN
+sukchae,KOREAN
+kongnamul,KOREAN
+japchae,KOREAN
+guk,KOREAN
+tteokguk,KOREAN
+haejangguk,KOREAN
+miyeok guk,KOREAN
+manduguk,KOREAN
+tang,KOREAN
+galbitang,KOREAN
+oritang,KOREAN
+samgyetang,KOREAN
+seolleongtang,KOREAN
+maeuntang,KOREAN
+gamjatang,KOREAN
+daktoritang,KOREAN
+chueotang,KOREAN
+jjigae,KOREAN
+doenjang jjigae,KOREAN
+doenjang,KOREAN
+cheonggukjang jjigae,KOREAN
+cheonggukjang,KOREAN
+gochujang jjigae,KOREAN
+gochujang,KOREAN
+kimchi jjigae,KOREAN
+kongbiji jjigae,KOREAN
+kongbiji,KOREAN
+sundubu jjigae,KOREAN
+sundubu,KOREAN
+saeujeot jjigae,KOREAN
+saeujeot,KOREAN
+budae jjigae,KOREAN
+budae,KOREAN
+saengseon jjigae,KOREAN
+saengseon,KOREAN
+jeongol,KOREAN
+sinseollo,KOREAN
+gopchang jeongol,KOREAN
+boribap,KOREAN
+nurungji,KOREAN
+ogokbap,KOREAN
+patbap,KOREAN
+kongnamulbap,KOREAN
+kimchi bokkeumbap,KOREAN
+ggakdugi,KOREAN
+kimbap,KOREAN
+manggo,KOREAN
+podo,KOREAN
+boksunga,KOREAN
+orenji,KOREAN
+hallabong,KOREAN
+sagwa,KOREAN
+subak,KOREAN
+painaepeul,KOREAN
+gam,KOREAN
+seongnyu,KOREAN
+ddalgi,KOREAN
+jamong,KOREAN
+jadu,KOREAN
+sanddalgi,KOREAN
+gyul,KOREAN
+soegogi,KOREAN
+dwaejigogi,KOREAN
+dalgogi,KOREAN
+mulgogi,KOREAN
+origogi,KOREAN
+samgyeopsal,KOREAN
+seuteikeu,KOREAN
+beikeon,KOREAN
+dubu,KOREAN
+gyeran,KOREAN
+chijeu,KOREAN
+sanchae bibimbap,KOREAN
+dolsot bibimbap,KOREAN
+formaggi,WESTERN
+western,WESTERN
+cheesy,WESTERN
+cheese,WESTERN
+sandwich,WESTERN
+burger,WESTERN
+truffle,WESTERN
+fries,WESTERN
+chips,WESTERN
+aglio olio,WESTERN
+promodoro,WESTERN
+bolognese,WESTERN
+creamy,WESTERN
+pizza,WESTERN
+salad,WESTERN
+mac,WESTERN
+mac and cheese,WESTERN
+ribs,WESTERN
+bagel,WESTERN
+croissant,WESTERN
+tenderloin,WESTERN
+sirloin,WESTERN
+hickory,WESTERN
+spaghetti,WESTERN
+marinara,WESTERN
+lasagna,WESTERN
+turkey,WESTERN
+mashed potato,WESTERN
+roasted beef,WESTERN
+risotto,WESTERN
+rosti,WESTERN
+calas,WESTERN
+charleston red rice,WESTERN
+chicken bog,WESTERN
+dirty rice,WESTERN
+linguine,WESTERN
+glorified rice,WESTERN
+tomahawk,WESTERN
+gumbo,WESTERN
+fries,WESTERN
+hawaiian haystack,WESTERN
+hoppin' john,WESTERN
+jambalaya,WESTERN
+rice and gravy,WESTERN
+shrimp creole,WESTERN
+spanish rice,WESTERN
+bologna sausage,WESTERN
+breakfast sausage,WESTERN
+chaudin,WESTERN
+goetta,WESTERN
+half-smoke,WESTERN
+hot dog,WESTERN
+italian hot dog,WESTERN
+lebanon bologna,WESTERN
+maxwell street polish,WESTERN
+polish boy,WESTERN
+buffalo wings,WESTERN
+deep fried sausage,WESTERN
+purple rice,WESTERN
+roasted turkey,WESTERN
+spaghetti donut,WESTERN
+chili con carne,WESTERN
+california-style pizza,WESTERN
+chicago-style pizza,WESTERN
+new york-style pizza,WESTERN
+detroit-style pizza,WESTERN
+tex mex,WESTERN
+fishball,CHINESE
+chinese,CHINESE
+steamed egg,CHINESE
+fried rice,CHINESE
+oyster omelette,CHINESE
+carrot cake,CHINESE
+lamian,CHINESE
+zhanjiangmian,CHINESE
+dandanmian,CHINESE
+sesame,CHINESE
+manchurian,CHINESE
+kung pao,CHINESE
+potstickers,CHINESE
+xiao long bao,CHINESE
+beggar's chicken,CHINESE
+braised sliced pork,CHINESE
+cold chicken in wine,CHINESE
+dongpo braised pork,CHINESE
+fish ball in soup,CHINESE
+fried eel slices,CHINESE
+fried shrimps,CHINESE
+longjing tea,CHINESE
+fried stuffed beancurd,CHINESE
+weet and sour pork,CHINESE
+hangzhou-style duck,CHINESE
+old duck stewed,CHINESE
+bamboo roo,CHINESE
+red-stewed duck,CHINESE
+sauteed broad beans,CHINESE
+sauteed shrimps,CHINESE
+sizzling rice in tomato,CHINESE
+steamed pork,CHINESE
+rice flour in lotus leaf,CHINESE
+spring bamboo shoots,CHINESE
+spring chicken chestnuts,CHINESE
+vinegar,CHINESE
+braised spare ribs,CHINESE
+fried gluten balls,CHINESE
+ji-yu soup,CHINESE
+jiyu fried shallots,CHINESE
+wuxi-style xiaolongbao,CHINESE
+whitebait omelet,CHINESE
+chongqing spicy,CHINESE
+deep-fried chicken,CHINESE
+dandan noodles,CHINESE
+fuqi feipian,CHINESE
+sichuan hotpot,CHINESE
+kung pao chicken,CHINESE
+mapo tofu,CHINESE
+shuizhu,CHINESE
+twice cooked pork,CHINESE
+beer duck,CHINESE
+changsha-style rice vermicelli,CHINESE
+changsha-style stinky tofu,CHINESE
+cured ham  cowpeas,CHINESE
+dong'an chicken,CHINESE
+bean curd,CHINESE
+lotus seeds,CHINESE
+mao's braised pork,CHINESE
+mala chicken,CHINESE
+spare ribs,CHINESE
+bamboo,CHINESE
+steamed fish head,CHINESE
+stirfried duck blood,CHINESE
+stir fried meat,CHINESE
+douchi,CHINESE
+chili peppers,CHINESE
+popiah,CHINESE
+ban mian,CHINESE
+popiah,CHINESE
+stuffed fish balls,CHINESE
+ngo hiang,CHINESE
+minshengguo,CHINESE
+fragrant snails,CHINESE
+clams in soup,CHINESE
+crispy fish skin,CHINESE
+drunken ribs,CHINESE
+eastern wall dragon pearls,CHINESE
+braised frog,CHINESE
+five colours shrimp,CHINESE
+five colours pearls,CHINESE
+yanpi,CHINESE
+misua,CHINESE
+guo tie,CHINESE
+japanese,JAPANESE
+shabu,JAPANESE
+ramen,JAPANESE
+sushi,JAPANESE
+aburi,JAPANESE
+fish,JAPANESE
+raw,JAPANESE
+poke,JAPANESE
+mentaiko,JAPANESE
+kurobuta,JAPANESE
+udon,JAPANESE
+tempura,JAPANESE
+yakitori,JAPANESE
+miso,JAPANESE
+okonomiyaki,JAPANESE
+takoyaki,JAPANESE
+katsudon,JAPANESE
+teppanyaki,JAPANESE
+yakiniku,JAPANESE
+sukiyaki,JAPANESE
+hotpot,JAPANESE
+teishoku,JAPANESE
+soba,JAPANESE
+unagi,JAPANESE
+hotate,JAPANESE
+umi,JAPANESE
+karage,JAPANESE
+kake,JAPANESE
+poke,JAPANESE
+tuna,JAPANESE
+matcha,JAPANESE
+dango,JAPANESE
+natto,JAPANESE
+yakisoba,JAPANESE
+onigiri,JAPANESE
+dorayaki,JAPANESE
+chawanmushi,JAPANESE
+oden,JAPANESE
+ebi,JAPANESE
+furai,JAPANESE
+tonkatsu,JAPANESE
