@@ -1,6 +1,7 @@
 # hackandroll 2022
 Hack and Roll 2022 Project
 
+Use NER to create a chatbot to determine the location and cuisine that a user would like to have for a meal and return to them the best possible option. 
 
 # Dependencies
 * pip install Flask
